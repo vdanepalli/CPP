@@ -1,0 +1,4 @@
+ctrl k ctrl 0 --- fold all
+ctrl k ctrl j --- unfold all
+
+ctrl k ctrl s --- see all short cuts

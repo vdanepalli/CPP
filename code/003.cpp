@@ -386,5 +386,21 @@ int main() {
     print_line();
     pattern14();
     print_line();
+    pattern15();
+    print_line();
+    pattern16();
+    print_line();
+    pattern17();
+    print_line();
+    pattern18();
+    print_line();
+    pattern19();
+    print_line();
+    pattern20();
+    print_line();
+    pattern21();
+    print_line();
+    pattern22();
+    print_line();
     return 0;
 }

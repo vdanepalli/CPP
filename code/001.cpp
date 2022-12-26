@@ -42,16 +42,6 @@ int main() {
     long x2 = 15; 
     long long x3 = 20;
 
-    // unsigned short 2 bytes
-    // long 4 bytes
-    // unsigned long 4 bytes
-    // long long 8 bytes/media/winai/Copper_disk0/Linux/Programming/CPP
-
-    // float 4 bytes 
-    // double 8 bytes
-    // long double 10 bytes 
-
-
     // string -- double quotes and getline
     string s;
     getline(cin, s);
@@ -61,8 +51,6 @@ int main() {
     string t;
     cin >> t;
     cout << "Value of t: " << t << endl;
-
-
 
     // char -- single quotes
     char ch;
