@@ -1,4 +1,6 @@
-#include<bits/stdc++.h>
+// #include<bits/stdc++.h>
+#include<iostream> // cin cout ... 
+#include <string> // getline
 
 using namespace std;
 
@@ -29,7 +31,7 @@ int main() {
     // signed ll int        8 bytes
 
     // float                4 bytes
-    // double               8 bytes
+    // double               8 bytes~~~
     // long double          12 bytes
     // wchar_t              2 or 4 bytes           1 wide character
 

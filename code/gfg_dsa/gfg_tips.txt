@@ -1,0 +1,3 @@
+Solving the sample test case does not guarantee correctness of solution as your code is checked against multiple test cases.
+Avoid using static/global variables in your code.
+Do not print anything unless mentioned in the problem statement. Avoid unnecessary new line characters.

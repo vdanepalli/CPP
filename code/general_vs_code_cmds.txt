@@ -1,4 +1,9 @@
 ctrl k ctrl 0 --- fold all
 ctrl k ctrl j --- unfold all
-
 ctrl k ctrl s --- see all short cuts
+ctrl k -- shift cursor focus to terminal : Focus on Terminal View
+ctrl j -- shift cursor focus to editor : Focus Active Editor Group
+
+
+For #include<bits/stdc++.h> to work, 
+    cp C:\MinGW\lib\gcc\mingw32\6.3.0\include\c++\bits C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\
